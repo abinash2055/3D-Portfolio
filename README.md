@@ -1,5 +1,9 @@
 # React + Vite
 
+# Though I have uploaded env file, but 
+  create your own otherwise your email will not work by contact form
+  learn Emailjs yourself to get alll the requirements used in env file.
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
